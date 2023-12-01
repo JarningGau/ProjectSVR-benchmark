@@ -1,4 +1,4 @@
-# Benchmark results of ProjectSVR and other referene mapping algorithms
+# Benchmark results of ProjectSVR and other reference mapping algorithms
 
 
 
