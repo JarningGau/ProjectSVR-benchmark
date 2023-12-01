@@ -26,8 +26,9 @@ see https://github.com/JarningGau/ProjectSVR#related-resources for details.
 
 ### Reference and query embeddings
 
-![](figure\FigureS3.png)
+<img src="figure/FigureS3.png" width="600" />
 
 ### Summary metrics
 
-![](figure\Figure3.png)
+<img src="figure/Figure3.png" width="600" />
+
